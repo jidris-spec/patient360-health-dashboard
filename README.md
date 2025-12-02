@@ -1,4 +1,4 @@
-Good — your README is **halfway there**, but it’s missing:
+
 
 * Project structure
 * Storage architecture
